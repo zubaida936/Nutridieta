@@ -1,4 +1,4 @@
-fetch('http://localhost:4000/')
+fetch('https://blooming-meadow-69578.herokuapp.com/')
   .then(response => response.json())
   .then(json => {
 
